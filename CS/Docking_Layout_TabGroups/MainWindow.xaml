@@ -1,4 +1,4 @@
-﻿<Window x:Class="Docking_Layout_TabGroups.MainWindow"
+<Window x:Class="Docking_Layout_TabGroups.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="254" Width="593"
