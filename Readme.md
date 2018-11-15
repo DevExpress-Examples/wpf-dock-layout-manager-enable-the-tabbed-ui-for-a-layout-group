@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Docking_Layout_TabGroups/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/Docking_Layout_TabGroups/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/Docking_Layout_TabGroups/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Docking_Layout_TabGroups/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to enable the tabbed UI for a layout group
 
 
