@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docking_Layout_TabGroups", "Docking_Layout_TabGroups\Docking_Layout_TabGroups.csproj", "{FDBB3C86-8296-4F0A-9755-B48B95B994CA}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docking_Layout_TabGroups", "Docking_Layout_TabGroups\Docking_Layout_TabGroups.Net5.csproj", "{FDBB3C86-8296-4F0A-9755-B48B95B994CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
