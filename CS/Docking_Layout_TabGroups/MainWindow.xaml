@@ -7,7 +7,7 @@
         >
     <Grid>
         <dxdo:DockLayoutManager Margin="12" Name="dockManager1" 
-                          dxcore:ThemeManager.ThemeName="Office2007Blue">
+                          dxcore:ThemeManager.ThemeName="VS2019Blue">
             <!--Root group-->
             <dxdo:LayoutGroup x:Name="rootGroup" Orientation="Horizontal" >
 
