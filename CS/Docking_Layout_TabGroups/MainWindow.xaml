@@ -14,7 +14,8 @@
             dxcore:ThemeManager.ThemeName="VS2019Blue">
             <!--  Root group  -->
             <dxdo:LayoutGroup x:Name="rootGroup" Orientation="Horizontal">
-                <!--  Layout group that display children within tabs  -->
+                <!--  Layout group that displays children within tabs  -->
+
                 <dxdo:LayoutGroup
                     x:Name="layoutGroup1"
                     GroupBorderStyle="Tabbed"
